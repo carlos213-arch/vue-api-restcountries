@@ -116,3 +116,4 @@ onMounted(() => {
     </main>
   </div>
 </template>
+<!-- Código revisado por el equipo -->
